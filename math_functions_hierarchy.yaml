@@ -1,0 +1,47 @@
+Mathematical Functions:
+  I. Based on Output Type:
+    Scalar-Valued Functions:
+      Real-Valued Functions:
+      - Polynomial Functions
+      - Rational Functions
+      - Exponential Functions
+      - Logarithmic Functions
+      - Trigonometric Functions
+      - Absolute Value, Floor, Ceiling
+      - Piecewise Functions
+      Complex-Valued Functions:
+      - Analytic Functions
+      - Entire / Meromorphic Functions
+      - Complex Exponential, Logarithmic
+    Vector/Matrix-Valued Functions:
+    - "Vector-Valued (\u211D\u207F \u2192 \u211D\u1D50)"
+    - "Matrix-Valued (A \u2192 Matrices)"
+  II. Based on Domain:
+  - "Continuous Functions (\u211D or \u2102)"
+  - "Discrete Functions (\u2115 \u2192 \u211D)"
+  - "Integer Functions (\u2124 \u2192 \u211D)"
+  - "Set-Valued Functions (A \u2192 \U0001D4AB(B))"
+  III. Based on Behavior:
+  - Even Functions
+  - Odd Functions
+  - Periodic Functions
+  - Injective (One-to-One)
+  - Surjective (Onto)
+  - Bijective (Invertible)
+  - Monotonic
+  - Bounded / Unbounded
+  IV. Based on Structure:
+    Elementary Functions:
+    - Algebraic Functions
+    - Transcendental Functions
+    Special Functions:
+    - "Gamma (\u0393) Functions"
+    - "Zeta (\u03B6) Functions"
+    - Bessel Functions
+    Recursive / Algorithmic Functions: []
+  V. Based on Application:
+  - Probability Functions (PDFs, CDFs)
+  - Signal Processing Functions (Fourier)
+  - Optimization Functions
+  - Boolean / Logical Functions
+  - Computational Functions (e.g. runtime)
